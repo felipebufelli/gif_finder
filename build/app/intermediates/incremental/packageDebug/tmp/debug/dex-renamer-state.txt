@@ -1,4 +1,0 @@
-#Thu Jul 30 12:21:17 BRT 2020
-base.0=/home/bufelli/Documents/dev_projects/gif_finder/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
